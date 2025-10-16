@@ -15,6 +15,7 @@ import AddProperty from "./pages/AddProperty";
 import DashboardPage from "./pages/Dashboardpage";
 import LoginPage from "./pages/Loginpage";
 
+
 const App = () => {
   // Track logged-in user
   const [user, setUser] = useState(null);

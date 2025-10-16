@@ -5,7 +5,7 @@ import WhoWeAre from '../components/WhoWeAre'
 import Services from '../components/Services'
 import ExploreCities from '../components/ExploreCities'
 import OurClient from '../components/OurClient'
-import AllInOne from '../components/Allinone'
+import AllInOne from '../components/AllInOne'
 import ClientsRow from '../components/ClientsRow'
 
 const Home = () => {
