@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import ScrollToTop from "./components/ScrollToTop";
 
+
 import Home from "./pages/Home";
 import Listing from "./pages/Listing";
 import Agent from "./pages/Agent";
@@ -11,7 +12,7 @@ import Property from "./pages/Property";
 import PropertyListing from "./components/PropertyListing";
 import PropertyDetail from "./components/PropertyDetail";
 import AddProperty from "./pages/AddProperty";
-import DashboardPage from "./pages/DashboardPage";
+import DashboardPage from "./pages/Dashboardpage";
 import LoginPage from "./pages/Loginpage";
 
 const App = () => {
